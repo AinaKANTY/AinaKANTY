@@ -1,6 +1,6 @@
 ## Sup ✌️, I'm Aina
 
-**Student developer from Madagascar** 🇲🇬
+**Student in software engineering from Madagascar** 🇲🇬
 
 I love creating projects **from scratch** to **understand** how they work.
 
