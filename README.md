@@ -22,7 +22,3 @@ I love creating projects **from scratch** to **understand** how they work.
 ## Contact
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aina.kanty9@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aina-kanty-839263282)
-
-## Projects
-- **[Mini-projet IGGLIA](https://github.com/AinaKANTY/Mini-projet-IGGLIA-1B-2025)** — Website showcasing northern Madagascar
-- **[Dynamic Wallpaper](https://github.com/AinaKANTY/dynamic-wallpaper)** — A fork of dynamic wallpapers initially optimized for Hyprland
